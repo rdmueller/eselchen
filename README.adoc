@@ -4,10 +4,6 @@ My goal is to create a donkey car with components available in germany.
 
 This repository is now the place where I write down my progress (which may be quite slow!).
 
-Car to Lego Technic adapter:
-
-+++
-<iframe width="560" height="350" src="https://www.tinkercad.com/embed/9OE2dVcuOiN?editbtn=1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-+++
+Car to Lego Technic adapter: https://www.thingiverse.com/thing:3623931
 
 Tutorial to interface servos: https://tutorials-raspberrypi.de/mehrere-servo-motoren-steuern-raspberry-pi-pca9685/
