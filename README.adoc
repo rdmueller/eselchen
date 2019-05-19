@@ -13,3 +13,56 @@ Car to Lego Technic adapter: https://www.thingiverse.com/thing:3623931
 Servo Board: https://www.adafruit.com/product/815[Adafruit 16-Channel 12-bit PWM/Servo Driver - I2C interface - PCA9685]
 Tutorial: https://learn.adafruit.com/16-channel-pwm-servo-driver
 Tutorial to interface servos: https://tutorials-raspberrypi.de/mehrere-servo-motoren-steuern-raspberry-pi-pca9685/
+
+Lego Order
+
+|===
+| Article | Product | Name | Number
+| 6170780 | 11998   | LEGO Factory Pick a Brick online |
+
+| -4211807
+| -3673
+| Sammelbuchse
+| 40
+
+| -4211441
+| -3701
+| Technic Stein 1x4, ø4,9
+| 10
+
+| -370726
+| -3707
+| Kreuzachse 8M
+| 4
+
+| -4211444
+| -3709
+| Platte 2x4 3xø4,9
+| 30
+
+| -373726
+| -3737
+| Kreuzachse 10M
+| 4
+
+| -4211860
+| -3895
+| Technic Stein 1x12, ø4,9
+| 6
+
+| -4211137
+| -32018
+| Technic Stein 1x14, ø4,9
+| 6
+
+| -4211573
+| -32018
+| 1/2 Buchse
+| 20
+
+| -4211713
+| -32526
+| Technic Winkelb 3x5 90Gr
+| 8
+
+|===
