@@ -4,7 +4,8 @@ My goal is to create a donkey car with components available in germany.
 
 This repository is now the place where I write down my progress (which may be quite slow!).
 
-Fahrtregler: https://www.amazon.de/gp/product/B00J4O632M
+Fahrtregler: https://www.amazon.de/gp/product/B00J4O632M (didn't work) 
+
 Speed Control: https://www.conrad.com/p/model-car-brushed-speed-control-modelcraft-carbon-series-207368[Modelcraft Carbon Series Speed Control 20 73 68]
 
 Steering Servo Replacement: https://www.conrad.de/de/p/reely-micro-servo-s-0270-mg-analog-servo-getriebe-material-metall-stecksystem-jr-1365571.html[Reely Micro-Servo S-0270 MG Analog-Servo]
