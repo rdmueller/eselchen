@@ -68,3 +68,5 @@ Lego Order
 | 8
 
 |===
+
+camera: http://www.netzmafia.de/skripten/hardware/RasPi/kamera/index.html
